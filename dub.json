@@ -1,0 +1,13 @@
+{
+    "name": "grain-probability",
+    "authors": [
+        "Shigeki Karita"
+    ],
+    "dependencies": {
+        "numir": "~>2.0.1",
+        "ggplotd": "~>1.1.6"
+    },
+    "description": "grain based probabilistic programming library",
+    "copyright": "Copyright © 2018, Shigeki Karita",
+    "license": "BSL-1.0"
+}
